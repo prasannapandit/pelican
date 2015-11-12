@@ -31,5 +31,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = '/home/pvpandit/blog/pelican-themes/elegant'
 
+LANDING_PAGE_ABOUT = {'title': 'Prasanna Pandit', 'details': 'Occasional blogger. Federer fan. Love non-fiction and lolz. Went to IISc and drank lots of tea.'};
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
