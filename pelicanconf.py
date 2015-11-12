@@ -29,5 +29,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 DEFAULT_PAGINATION = 10
 
+THEME = '/home/pvpandit/blog/pelican-themes/elegant'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
