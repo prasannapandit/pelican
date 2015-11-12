@@ -1,0 +1,11 @@
+Workflow for pubishing the site:
+
+make publish #to generate output
+make serve #to view the site on localhost:8000/
+git add . #Add files
+git commit -m "Comment" 
+git push origin master #Git push to pelican repo on github
+make github #Push the generated site to prasannapandit.github.io
+
+To change theme, set THEME variable in pelicanconf.py to point to theme path (checked out from
+pelican-themes repo).
