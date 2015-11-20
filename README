@@ -1,7 +1,8 @@
 Workflow for pubishing the site:
 
-make publish #to generate output
+make html #to generate output to view locally (uses pelicanconf.py)
 make serve #to view the site on localhost:8000/
+make publish #to genereate  output with publishconf.py
 git add . #Add files
 git commit -m "Comment" 
 git push origin master #Git push to pelican repo on github
