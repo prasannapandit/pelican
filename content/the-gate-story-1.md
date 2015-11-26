@@ -7,7 +7,7 @@ Slug: the-gate-story-1
 Status: published
 
 [Now that the whole circus of PG admissions is behind
-me](http://prasannapandit.wordpress.com/2010/06/30/not-a-bachelor-much-longer/),
+me]({filename}not-a-bachelor-much-longer.md),
 I can finally sit back and write a detailed account of my GATE story.
 The whole thing starts with last year, when, due to shockingly poor time
 management, I got a dismal 800-something rank in GATE and was staring at
@@ -113,4 +113,4 @@ The North India trip was quite an experience, but I shall continue it in
 a separate post. Do come back!
 
 (Continued in [The GATE Story -
-2](http://prasannapandit.wordpress.com/2010/07/16/the-gate-story-2/))
+2]({filename}the-gate-story-2.md))

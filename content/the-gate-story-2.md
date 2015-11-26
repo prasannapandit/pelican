@@ -7,7 +7,7 @@ Slug: the-gate-story-2
 Status: published
 
 <span style="font-weight:normal;">(You've read
-[Part-1](http://prasannapandit.wordpress.com/2010/07/07/the-gate-story-1/),
+[Part-1]({filename}the-gate-story-1.md),
 no?)</span>
 
 So. Where were we? Ah yes. I had just blown my first chance at
@@ -146,4 +146,4 @@ this never-ending story?
 For answers to these and many such intriguing questions, stay tuned.
 
 (Concluded in [The GATE
-Story-3](http://prasannapandit.wordpress.com/2010/07/31/the-gate-story-3/))
+Story-3]({filename}the-gate-story-3.md))

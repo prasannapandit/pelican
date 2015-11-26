@@ -7,9 +7,9 @@ Slug: the-gate-story-3
 Status: published
 
 (This is the concluding part of The GATE Story. Please read
-[Part-1](http://prasannapandit.wordpress.com/2010/07/07/the-gate-story-1/)
+[Part-1]({filename}the-gate-story-1.md)
 and
-[Part-2](http://prasannapandit.wordpress.com/2010/07/16/the-gate-story-2/)
+[Part-2]({filename}the-gate-story-2.md)
 before this.)
 
 Two opportunities down. Sigh.
